@@ -5,7 +5,7 @@
 ---
 
 ## Overview
-This repository contains 2 independent data analysis projects 
+This repository contains independent data analysis projects 
 implementing an end-to-end pipeline for raw data ingestion, 
 preprocessing, exploratory analysis, and visualization.
 
