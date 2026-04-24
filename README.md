@@ -1,13 +1,17 @@
 
-# 🧢  Data Analysis & Visualization Pipeline
-### Complete Data Analysis & Visualization using Python
+# 🧢  Data Analysis & Machine Learning
+
 
 ---
 
 ## Overview
-This repository contains independent data analysis projects 
-implementing an end-to-end pipeline for raw data ingestion, 
-preprocessing, exploratory analysis, and visualization.
+This repository showcases hands-on projects spanning Data Analysis 
+and Machine Learning. Each project follows a structured pipeline:
+Data Collection → Cleaning → EDA → Visualization → Modeling (where applicable).
+
+Languages  : Python
+Libraries  : Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+Tools      : Jupyter Notebook, GitHub
 
 
 
